@@ -1,3 +1,5 @@
+// Merge sort algorithm using the iterative method
+
 #include <stdio.h>
 
 void merge(int *list, int start, int mid, int end){
