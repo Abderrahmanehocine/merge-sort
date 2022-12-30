@@ -1,3 +1,7 @@
+// Merge sort algorithm using the iterative method
+// The link fo traying the code is: https://replit.com/@Abderrahmanehocine/Merge-sortiterative-method?v=1
+// My email: hocineabderrahmane@duck.com
+
 #include <stdio.h>
 
 void merge(int *list, int start, int mid, int end){
